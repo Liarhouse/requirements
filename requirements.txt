@@ -6,4 +6,5 @@ Flask-Migrate==2.6.0
 Flask-WTF
 Flask-Markdown
 easyocr
-sqlite3
+pysqlite3 
+pyscreenshot
